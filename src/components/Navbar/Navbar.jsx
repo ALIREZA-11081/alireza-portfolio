@@ -50,7 +50,7 @@ const Navbar = () => {
           </button>
 
           <a
-            href="/cv/Alireza-Resume.pdf"
+            href="/cv/Alireza.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-xl bg-cyan-500 hover:bg-cyan-400 duration-300 font-semibold text-black"
