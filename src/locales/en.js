@@ -10,7 +10,7 @@ const en = {
 
   hero: {
     greeting: "Hi, I'm",
-    name: "Alireza",
+    name: "Alireza Rastegar",
     title: "Front-End Developer",
     description:
       "I build modern, responsive and user-friendly web applications using React and WordPress.",
