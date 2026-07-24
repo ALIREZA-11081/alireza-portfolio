@@ -71,7 +71,7 @@ const Navbar = () => {
 
           {/* CV */}
           <a
-            href="/cv/Alireza-Resume.pdf"
+            href="/cv/Alireza.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 rounded-lg bg-cyan-500 hover:bg-cyan-400 duration-300 font-semibold text-black text-sm"
