@@ -21,7 +21,6 @@ import mobino7 from "../assets/projects/mobino/7.png";
 import mobino8 from "../assets/projects/mobino/8.png";
 import mobino9 from "../assets/projects/mobino/9.png";
 import mobino10 from "../assets/projects/mobino/10.png";
-import mobino11 from "../assets/projects/mobino/11.png";
 
 import daruland1 from "../assets/projects/daruland/1.png";
 import daruland2 from "../assets/projects/daruland/2.png";
@@ -221,7 +220,6 @@ export const projects = [
     mobino8,
     mobino9,
     mobino10,
-    mobino11,
   ],
 
   technologies: [
