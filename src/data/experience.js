@@ -18,9 +18,32 @@ export const experiences = [
   },
 
   {
-    id: 2,
+  id: 2,
 
-    year: "2025",
+  year: "2025",
+
+  title: {
+    en: "Built Mobino",
+    fa: "توسعه فروشگاه موبینو",
+  },
+
+  description: {
+    en: "Developed a modern mobile e-commerce website using Next.js and Tailwind CSS with responsive design, product catalog, category filtering, shopping cart, and optimized performance for a seamless shopping experience.",
+    fa: "یک فروشگاه اینترنتی مدرن موبایل با Next.js و Tailwind CSS توسعه دادم که شامل طراحی ریسپانسیو، نمایش محصولات، فیلتر دسته‌بندی، سبد خرید و عملکرد بهینه برای تجربه خرید روان است.",
+  },
+
+  skills: [
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "JavaScript",
+  ],
+},
+
+  {
+    id: 3,
+
+    year: "2026",
 
     title: {
       en: "Built Daruland",
@@ -42,7 +65,7 @@ export const experiences = [
   },
 
   {
-    id: 3,
+    id: 4,
 
     year: "2026",
 
@@ -67,7 +90,7 @@ export const experiences = [
   },
 
   {
-    id: 4,
+    id: 5,
 
     year: "2026",
 

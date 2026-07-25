@@ -11,6 +11,18 @@ import nirovan10 from "../assets/projects/nirovan/10.png";
 import nirovan11 from "../assets/projects/nirovan/11.png";
 import nirovan12 from "../assets/projects/nirovan/12.png";
 
+import mobino1 from "../assets/projects/mobino/1.png";
+import mobino2 from "../assets/projects/mobino/2.png";
+import mobino3 from "../assets/projects/mobino/3.png";
+import mobino4 from "../assets/projects/mobino/4.png";
+import mobino5 from "../assets/projects/mobino/5.png";
+import mobino6 from "../assets/projects/mobino/6.png";
+import mobino7 from "../assets/projects/mobino/7.png";
+import mobino8 from "../assets/projects/mobino/8.png";
+import mobino9 from "../assets/projects/mobino/9.png";
+import mobino10 from "../assets/projects/mobino/10.png";
+import mobino11 from "../assets/projects/mobino/11.png";
+
 import daruland1 from "../assets/projects/daruland/1.png";
 import daruland2 from "../assets/projects/daruland/2.png";
 import daruland3 from "../assets/projects/daruland/3.png";
@@ -172,4 +184,83 @@ export const projects = [
 
     demo: "#",
   },
+
+  {
+  id: 3,
+
+  title: {
+    en: "Mobino",
+    fa: "موبینو",
+  },
+
+  category: {
+    en: "Mobile E-Commerce",
+    fa: "فروشگاه اینترنتی موبایل",
+  },
+
+  year: "2026",
+
+  role: {
+    en: "Front-End Developer",
+    fa: "توسعه‌دهنده فرانت‌اند",
+  },
+
+  description: {
+    en: "A modern mobile e-commerce platform built with Next.js and Tailwind CSS, featuring a fast and responsive user interface, product catalog, category filtering, shopping cart, and optimized user experience.",
+    fa: "فروشگاه اینترنتی مدرن موبایل توسعه داده شده با Next.js و Tailwind CSS با رابط کاربری سریع و ریسپانسیو، نمایش محصولات، دسته‌بندی، سبد خرید و تجربه کاربری بهینه.",
+  },
+
+  images: [
+    mobino1,
+    mobino2,
+    mobino3,
+    mobino4,
+    mobino5,
+    mobino6,
+    mobino7,
+    mobino8,
+    mobino9,
+    mobino10,
+    mobino11,
+  ],
+
+  technologies: [
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "JavaScript",
+  ],
+
+  features: [
+    {
+      en: "Responsive Design",
+      fa: "طراحی ریسپانسیو",
+    },
+    {
+      en: "Product Catalog",
+      fa: "نمایش محصولات",
+    },
+    {
+      en: "Category Filtering",
+      fa: "فیلتر محصولات",
+    },
+    {
+      en: "Shopping Cart",
+      fa: "سبد خرید",
+    },
+    {
+      en: "Fast Performance",
+      fa: "سرعت بالا",
+    },
+    {
+      en: "Modern UI/UX",
+      fa: "رابط کاربری مدرن",
+    },
+  ],
+
+  github: "#",
+
+  demo: "#",
+},
 ];
+
