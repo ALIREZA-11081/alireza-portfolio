@@ -289,7 +289,7 @@ export const projects = [
 
   images: [
     dentino1,
-    dentino2,
+    dentino2
 
   ],
 
