@@ -10,7 +10,8 @@ import nirovan9 from "../assets/projects/nirovan/9.png";
 import nirovan10 from "../assets/projects/nirovan/10.png";
 import nirovan11 from "../assets/projects/nirovan/11.png";
 import nirovan12 from "../assets/projects/nirovan/12.png";
-
+import dentino1 from "../assets/projects/dentino/1.png";
+import dentino2 from "../assets/projects/dentino/2.png";
 import mobino1 from "../assets/projects/mobino/1.png";
 import mobino2 from "../assets/projects/mobino/2.png";
 import mobino3 from "../assets/projects/mobino/3.png";
@@ -208,6 +209,7 @@ export const projects = [
     en: "A modern mobile e-commerce platform built with Next.js and Tailwind CSS, featuring a fast and responsive user interface, product catalog, category filtering, shopping cart, and optimized user experience.",
     fa: "فروشگاه اینترنتی مدرن موبایل توسعه داده شده با Next.js و Tailwind CSS با رابط کاربری سریع و ریسپانسیو، نمایش محصولات، دسته‌بندی، سبد خرید و تجربه کاربری بهینه.",
   },
+  
 
   images: [
     mobino1,
@@ -260,5 +262,76 @@ export const projects = [
 
   demo: "#",
 },
+{
+  id: 4,
+
+  title: {
+    en: "Dentino",
+    fa: "دنتینو",
+  },
+
+  category: {
+    en: "Dental Appointment Website",
+    fa: "سامانه رزرو نوبت دندانپزشکی",
+  },
+
+  year: "2026",
+
+  role: {
+    en: "WordPress Developer",
+    fa: "توسعه‌دهنده وردپرس",
+  },
+
+  description: {
+    en: "A modern dental appointment booking website built with WordPress, featuring online appointment requests, service pages, doctor profiles, responsive design, and a clean user experience.",
+    fa: "وب‌سایت مدرن رزرو نوبت دندانپزشکی توسعه داده شده با وردپرس که شامل درخواست آنلاین نوبت، معرفی خدمات، پروفایل پزشکان، طراحی ریسپانسیو و رابط کاربری مدرن است.",
+  },
+
+  images: [
+    dentino1,
+    dentino2
+
+  ],
+
+  technologies: [
+    "WordPress",
+    "PHP",
+    "SCSS",
+    "JavaScript",
+  ],
+
+  features: [
+    {
+      en: "Online Appointment Booking",
+      fa: "رزرو آنلاین نوبت",
+    },
+    {
+      en: "Doctors Showcase",
+      fa: "معرفی پزشکان",
+    },
+    {
+      en: "Services Section",
+      fa: "بخش خدمات",
+    },
+    {
+      en: "Responsive Design",
+      fa: "طراحی ریسپانسیو",
+    },
+    {
+      en: "Modern UI/UX",
+      fa: "رابط کاربری مدرن",
+    },
+    {
+      en: "Custom WordPress Theme",
+      fa: "قالب اختصاصی وردپرس",
+    },
+  ],
+
+  github: "#",
+
+  demo: "#",
+},
 ];
+
+
 
