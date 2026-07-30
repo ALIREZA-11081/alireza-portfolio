@@ -113,4 +113,26 @@ export const experiences = [
       "Elementor",
     ],
   },
+  {
+  id: 6,
+
+  year: "2026",
+
+  title: {
+    en: "Built Dentino",
+    fa: "توسعه دنتینو",
+  },
+
+  description: {
+    en: "Developed a custom WordPress website for a dental clinic with online appointment booking, service pages, doctor profiles, and a fully responsive modern interface.",
+    fa: "یک وب‌سایت اختصاصی وردپرسی برای کلینیک دندانپزشکی توسعه دادم که شامل رزرو آنلاین نوبت، معرفی خدمات، پروفایل پزشکان و رابط کاربری کاملاً ریسپانسیو است.",
+  },
+
+  skills: [
+    "WordPress",
+    "PHP",
+    "SCSS",
+    "JavaScript",
+  ],
+},
 ];
