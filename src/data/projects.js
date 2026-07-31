@@ -12,6 +12,8 @@ import nirovan11 from "../assets/projects/nirovan/11.png";
 import nirovan12 from "../assets/projects/nirovan/12.png";
 import dentino1 from "../assets/projects/dentino/1.png";
 import dentino2 from "../assets/projects/dentino/2.png";
+import dentino3 from "../assets/projects/dentino/3.png";
+
 import mobino1 from "../assets/projects/mobino/1.png";
 import mobino2 from "../assets/projects/mobino/2.png";
 import mobino3 from "../assets/projects/mobino/3.png";
@@ -289,7 +291,8 @@ export const projects = [
 
   images: [
     dentino1,
-    dentino2
+    dentino2,
+    dentino3,
 
   ],
 
