@@ -31,6 +31,13 @@ import daruland3 from "../assets/projects/daruland/3.png";
 import daruland4 from "../assets/projects/daruland/4.png";
 import daruland5 from "../assets/projects/daruland/5.png";
 
+
+import melkplus1 from "../assets/projects/melkplus/1.png";
+import melkplus2 from "../assets/projects/melkplus/2.png";
+import melkplus3 from "../assets/projects/melkplus/3.png";
+import melkplus4 from "../assets/projects/melkplus/4.png";
+
+
 export const projects = [
   {
     id: 1,
@@ -334,7 +341,82 @@ export const projects = [
 
   demo: "#",
 },
+
+{
+  id: 5,
+
+  title: {
+    en: "MelkPlus",
+    fa: "ملک‌پلاس",
+  },
+
+  category: {
+    en: "Real Estate Website",
+    fa: "وب‌سایت املاک",
+  },
+
+  year: "2026",
+
+  role: {
+    en: "WordPress Developer",
+    fa: "توسعه‌دهنده وردپرس",
+  },
+
+  description: {
+    en: "A modern real estate website built with WordPress, featuring property listings, detailed property information, image galleries and a custom property submission system.",
+    fa: "یک وب‌سایت مدرن املاک توسعه داده شده با وردپرس که شامل ثبت و نمایش ملک، اطلاعات کامل ملک، گالری تصاویر و سیستم اختصاصی ثبت ملک است.",
+  },
+
+  images: [
+    melkplus1,
+    melkplus2,
+    melkplus3,
+    melkplus4,
+  ],
+
+  technologies: [
+    "WordPress",
+    "PHP",
+    "SCSS",
+    "JavaScript",
+  ],
+
+  features: [
+    {
+      en: "Property Listings",
+      fa: "لیست املاک",
+    },
+    {
+      en: "Property Details",
+      fa: "جزئیات ملک",
+    },
+    {
+      en: "Property Gallery",
+      fa: "گالری تصاویر ملک",
+    },
+    {
+      en: "Property Submission",
+      fa: "ثبت ملک",
+    },
+    {
+      en: "Responsive Design",
+      fa: "طراحی ریسپانسیو",
+    },
+    {
+      en: "Custom WordPress Development",
+      fa: "توسعه اختصاصی وردپرس",
+    },
+  ],
+
+  github: "#",
+
+  demo: "#",
+},
 ];
+
+
+
+
 
 
 
