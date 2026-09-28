@@ -135,4 +135,27 @@ export const experiences = [
     "JavaScript",
   ],
 },
+
+{
+  id: 7,
+
+  year: "2026",
+
+  title: {
+    en: "Built MelkPlus",
+    fa: "توسعه ملک‌پلاس",
+  },
+
+  description: {
+    en: "Developed a modern real estate website with WordPress, featuring property listings, detailed property information, image galleries and a custom property submission system.",
+    fa: "یک وب‌سایت مدرن املاک با وردپرس توسعه دادم که شامل نمایش لیست املاک، اطلاعات کامل ملک، گالری تصاویر و سیستم اختصاصی ثبت ملک است.",
+  },
+
+  skills: [
+    "WordPress",
+    "PHP",
+    "SCSS",
+    "JavaScript",
+  ],
+},
 ];
